@@ -1,4 +1,5 @@
-# POKEGYM GROUP PROJECT ![GYARADOS!](https://img.pokemondb.net/sprites/x-y/normal/gyarados-f.png)
+![GYARADOS!](https://img.pokemondb.net/sprites/x-y/normal/gyarados-f.png)
+# POKEGYM GROUP PROJECT
 
 ### DESCRIPTION
 Our pokemon trainers are now gym leaders! In teams of three, we built a web app that highlights our individual Pokemon through a singular theme. This project was an exercise in collaboration and version control through git.
